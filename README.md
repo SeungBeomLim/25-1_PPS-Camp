@@ -1,2 +1,2 @@
-# 25-1_PPS-Camp
-2025 동계 PPS Camp
+# 2024 하계 PPS Camp
+### Language: Python
